@@ -1,0 +1,29 @@
+Are you ready to play?
+Please type yes (y) or no (n):
+
+Okay sweet yeah, let's go...
+
+Please input your name:
+
+Well, PLAYERNAME. Let's play...
+
+Your life points are 100.
+
+Press (y) to take a hit!
+
+You rolled: 30
+The following bodypart has been hit: Torso
+
+You have sustained: 50 damage.
+Your remaining life points are: 50
+
+Press (y) to take a hit!
+
+You rolled: 30
+The following bodypart has been hit: Torso
+
+You have sustained: 50 damage.
+Your remaining life points are: 0
+
+You have died!
+You survived for 2 rounds.

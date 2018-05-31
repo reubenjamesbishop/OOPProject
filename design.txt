@@ -1,0 +1,15 @@
+The current plan for the project is to create simple game based on fighting a human body.
+
+It is a turn based game in which an enemy 'fires' at the player, and based on a random
+probability, the player sustains damage. Each body part when hit will cause a certain amount
+of damage to the player. The player continues until they lose all of their health points.
+
+There will be multiple objects utilizing both parent and child classes.
+
+Currently,
+
+BODY-PART will be a parent object with leg, arm, head and torso child classes.
+
+It will show clear and common use of arrays, strings, classes,
+cin, cout, inheritance, polymorphism, abstract and virtual classes,
+testing inputs vs expected outputs and regression testing.

@@ -1,0 +1,1 @@
+./main < testinput.txt | diff - testoutput.txt
